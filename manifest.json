@@ -1,0 +1,123 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Phonandroid.com",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://5c70ff611056ecdc04b43342--festive-bose-4a5fe9.netlify.com/",
+    "short_name": "Phonandroid",
+    "theme_color": "transparent",
+    "description": "Blog d'actus sur Android",
+    "orientation": "any",
+    "background_color": "pick",
+    "gcm_sender_id": "482941778795",
+    "gcm_user_visible_only": true,
+    "related_applications": [
+        {
+            "platform": "onesignal",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalSDK.js",
+            "id": "482941778795"
+        }
+    ],
+    "icons": [
+        {
+            "src": "/images/src/assets/img/favicon.ico",
+            "sizes": "64x64 48x48 32x32 16x16"
+        },
+        {
+            "src": "/images/3b6bb1b5-6b9b-f89a-940c-6548492ee33f.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/34deaa75-b531-a52e-8f0d-d12f6eeca42d.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/45529ccc-1134-b382-eb60-5026046bc417.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d60be167-614f-aea3-7a5d-2702e2921035.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0452e58e-2fc6-108c-3c0f-a02c16257d00.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/29d1b11d-2310-0d46-f4bd-5e6425008a01.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4c67ee9e-fb2a-dff6-0820-97592f1d2478.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b565c908-b8b4-5ddb-7dd1-adc9ce577fe0.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/58cfb89d-49de-1473-8ae5-d1e9b861b2b9.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/da59a651-cc1f-919d-3361-8c52206172dc.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b99b3845-7db6-03bd-5dc8-b0295510017e.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/70ccffc3-a632-38b3-3b7f-3106c7b8fb40.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/037a8606-55d0-df9c-99f3-a9d87bd10dae.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d238f302-de63-dd5c-86d2-ce4afeb121ea.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4d52445e-a003-01db-350f-d18e6738ad1a.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4ec6ec2c-7f53-ad26-c247-7f1e586dfd60.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b8a9acfe-c185-a76f-a80f-c300d308f547.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ab60e3eb-e248-5f3a-55c5-d5f6904a2b2a.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7d142e90-86af-a489-5cea-84b152f01ee4.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
