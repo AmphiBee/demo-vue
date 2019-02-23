@@ -1,9 +1,9 @@
 {
     "dir": "ltr",
-    "lang": "en",
+    "lang": "fr",
     "name": "Phonandroid.com",
     "scope": "/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://5c70ff611056ecdc04b43342--festive-bose-4a5fe9.netlify.com/",
     "short_name": "Phonandroid",
     "theme_color": "transparent",
