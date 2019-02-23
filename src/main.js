@@ -5,6 +5,7 @@ import router from './router';
 import utils from './mixins/utils';
 import store from './store';
 import moment from 'moment';
+import './registerServiceWorker'
 
 Vue.mixin(utils);
 
