@@ -11,16 +11,11 @@ const routes = [
   {
     name: 'home',
     path: '/',
-    redirect: '/posts'
-  },
-  {
-    name: 'posts',
-    path: '/posts',
     component: Feed
   },
   {
     name: 'post',
-    path: '/posts/:slug',
+    path: '/:slug',
     component: Post
   },
   {
